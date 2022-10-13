@@ -1,6 +1,6 @@
-<h1>#Triangle-Game</h1>
+<h1>Triangle-Game</h1>
 
-<h2>#developed by using JS</h2>
+<h2>developed by using html5, css3,javascript</h2>
 
 <h3>.Calculate Area of a Triangle.</br>
 .To Find the Hypotenuse of a right Triangle.</br>
